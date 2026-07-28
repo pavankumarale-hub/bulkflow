@@ -1,0 +1,15 @@
+target/
+*.class
+*.jar
+*.war
+
+.idea/
+*.iml
+.vscode/
+*.swp
+
+.env
+*.log
+
+__pycache__/
+*.pyc

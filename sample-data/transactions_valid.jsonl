@@ -1,0 +1,20 @@
+{"transactionId":"txn_000001","accountId":"acc_00001","amount":2500.00,"currency":"USD","transactionType":"CREDIT","transactionDate":"2024-01-15","description":"Direct deposit"}
+{"transactionId":"txn_000002","accountId":"acc_00002","amount":150.75,"currency":"EUR","transactionType":"DEBIT","transactionDate":"2024-01-16","description":"POS purchase - grocery store"}
+{"transactionId":"txn_000003","accountId":"acc_00003","amount":50.00,"currency":"GBP","transactionType":"FEE","transactionDate":"2024-01-17","description":"Monthly service fee"}
+{"transactionId":"txn_000004","accountId":"acc_00001","amount":800.00,"currency":"USD","transactionType":"DEBIT","transactionDate":"2024-01-18","description":"Online purchase - electronics"}
+{"transactionId":"txn_000005","accountId":"acc_00004","amount":3200.00,"currency":"USD","transactionType":"CREDIT","transactionDate":"2024-01-19","description":"Wire transfer received"}
+{"transactionId":"txn_000006","accountId":"acc_00005","amount":45.20,"currency":"USD","transactionType":"DEBIT","transactionDate":"2024-01-20","description":"Subscription fee"}
+{"transactionId":"txn_000007","accountId":"acc_00002","amount":200.00,"currency":"EUR","transactionType":"REFUND","transactionDate":"2024-01-21","description":"Refund credit - returned item"}
+{"transactionId":"txn_000008","accountId":"acc_00006","amount":1500.00,"currency":"EUR","transactionType":"TRANSFER","transactionDate":"2024-01-22","description":"Internal account transfer"}
+{"transactionId":"txn_000009","accountId":"acc_00007","amount":75.00,"currency":"USD","transactionType":"DEBIT","transactionDate":"2024-01-23","description":"ATM withdrawal"}
+{"transactionId":"txn_000010","accountId":"acc_00008","amount":4800.00,"currency":"USD","transactionType":"CREDIT","transactionDate":"2024-01-24","description":"Payroll deposit"}
+{"transactionId":"txn_000011","accountId":"acc_00009","amount":120.50,"currency":"GBP","transactionType":"DEBIT","transactionDate":"2024-01-25","description":"Bill payment - utilities"}
+{"transactionId":"txn_000012","accountId":"acc_00010","amount":350.00,"currency":"USD","transactionType":"CREDIT","transactionDate":"2024-01-26","description":"Insurance claim reimbursement"}
+{"transactionId":"txn_000013","accountId":"acc_00011","amount":25.99,"currency":"USD","transactionType":"DEBIT","transactionDate":"2024-01-27","description":"Streaming service subscription"}
+{"transactionId":"txn_000014","accountId":"acc_00012","amount":700.00,"currency":"EUR","transactionType":"DEBIT","transactionDate":"2024-01-28","description":"Hotel booking"}
+{"transactionId":"txn_000015","accountId":"acc_00013","amount":18.50,"currency":"USD","transactionType":"ADJUSTMENT","transactionDate":"2024-01-29","description":"Interest adjustment"}
+{"transactionId":"txn_000016","accountId":"acc_00014","amount":2100.00,"currency":"USD","transactionType":"CREDIT","transactionDate":"2024-01-30","description":"Freelance payment received"}
+{"transactionId":"txn_000017","accountId":"acc_00015","amount":560.00,"currency":"GBP","transactionType":"DEBIT","transactionDate":"2024-01-31","description":"Flight booking"}
+{"transactionId":"txn_000018","accountId":"acc_00016","amount":90.25,"currency":"USD","transactionType":"DEBIT","transactionDate":"2024-02-01","description":"Restaurant - dinner"}
+{"transactionId":"txn_000019","accountId":"acc_00017","amount":1250.00,"currency":"EUR","transactionType":"CREDIT","transactionDate":"2024-02-02","description":"Consulting invoice paid"}
+{"transactionId":"txn_000020","accountId":"acc_00018","amount":33.00,"currency":"USD","transactionType":"FEE","transactionDate":"2024-02-03","description":"Late payment fee"}
