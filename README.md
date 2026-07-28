@@ -1,6 +1,6 @@
 # BulkFlow — Resilient Batch Ingestion Pipeline
 
-![Build Status](https://github.com/pavankumarale/bulkflow/actions/workflows/ci.yml/badge.svg)
+![Build Status](https://github.com/pavankumarale-hub/bulkflow/actions/workflows/ci.yml/badge.svg)
 ![Java 17](https://img.shields.io/badge/Java-17-blue)
 ![Spring Batch](https://img.shields.io/badge/Spring_Batch-5.x-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
@@ -94,7 +94,7 @@ flowchart LR
 
 ```bash
 # Clone and start infrastructure
-git clone https://github.com/pavankumarale/bulkflow
+git clone https://github.com/pavankumarale-hub/bulkflow
 cd bulkflow
 make up
 
